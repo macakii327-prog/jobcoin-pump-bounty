@@ -13,7 +13,7 @@ A polished static landing page for the JobCoin memecoin bounty.
 The contract placeholder is included exactly as:
 
 ```text
-CA: [INSERT_JOBCOIN_CA]
+CA: CYRr9XoH8kjofJJcQx7hD8FLAE4WgMjeAePBJMZUeTX
 ```
 
 Replace it after the official JobCoin contract is live.
